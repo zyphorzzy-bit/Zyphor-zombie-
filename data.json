@@ -4,17 +4,21 @@
     "staffRoleId": "",
     "generalSupportRoleId": "",
     "logsChannelId": "",
-    "ticketCategories": {},
-    "warnRoles": {
-      "warn1": "",
-      "warn2": "",
-      "warn3": ""
-    },
+    "streamerChannelId": "",
+    "voiceChannelId": "",
+    "supportServerLink": "https://discord.gg/seu-link-aqui",
+    "banBannerUrl": "https://i.imgur.com/vossa_imagem_grande.gif",
+    "banAvatarUrl": "https://i.imgur.com/vossa_imagem_pequena.png",
     "candidaturas": {
       "pendentesChannelId": "",
       "aceitasChannelId": "",
       "recusadasChannelId": "",
       "cargoAprovadoId": ""
+    },
+    "warnRoles": {
+      "warn1": "",
+      "warn2": "",
+      "warn3": ""
     }
   },
   "users": {},
