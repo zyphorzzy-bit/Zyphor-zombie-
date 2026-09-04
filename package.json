@@ -1,7 +1,7 @@
 {
   "name": "zyphor-zombie",
-  "version": "3.0.0",
-  "description": "Bot de gerenciamento unificado com Components V2 para ShardCloud",
+  "version": "1.0.0",
+  "description": "Bot de gestão, moderação, tickets e equipes para o Zyphor Zombie",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
