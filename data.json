@@ -1,63 +1,22 @@
 {
   "config": {
+    "ownerId": "",
+    "staffRoleId": "",
+    "generalSupportRoleId": "",
+    "logsChannelId": "",
+    "ticketCategories": {},
+    "warnRoles": {
+      "warn1": "",
+      "warn2": "",
+      "warn3": ""
+    },
     "candidaturas": {
-      "canalEnvio": null,
-      "canalPendentes": null,
-      "canalAceitos": null,
-      "canalRecusados": null,
-      "canalLogs": null,
-      "cargoEquipe": null,
-      "cargoAprovado": null,
-      "idadeMinimaConta": 0,
-      "dmAprovacao": true,
-      "dmRecusa": true
-    },
-    "tickets": {
-      "paises": [
-        "🇧🇷 Brasil",
-        "🇺🇸 Estados Unidos",
-        "🇷🇺 Rússia",
-        "🇪🇸 Espanha",
-        "🇵🇹 Portugal"
-      ],
-      "suportes": {}
-    },
-    "seguranca": {
-      "antiLink": false,
-      "antiSpam": false,
-      "antiBot": false,
-      "antiRaid": false,
-      "antiSelfbot": true
-    },
-    "moderacao": {
-      "warn1Role": null,
-      "warn2Role": null,
-      "warn3Role": null
-    },
-    "logs": {
-      "gerais": null,
-      "seguranca": null,
-      "moderacao": null,
-      "tickets": null,
-      "candidaturas": null,
-      "warns": null,
-      "membros": null,
-      "lideres": null
-    },
-    "lideres": {},
-    "voz": {
-      "canalGeradorId": null,
-      "ativo": true
-    },
-    "streaming": {
-      "nome": "☠️ zyphor zombie",
-      "url": "https://www.twitch.tv/discord",
-      "ativo": true
+      "pendentesChannelId": "",
+      "aceitasChannelId": "",
+      "recusadasChannelId": "",
+      "cargoAprovadoId": ""
     }
   },
-  "candidaturas": {},
-  "tickets": {},
-  "warns": {},
-  "pausadosAtendimento": [],
-  "tempVoiceChannels": []
+  "users": {},
+  "teams": {}
 }
