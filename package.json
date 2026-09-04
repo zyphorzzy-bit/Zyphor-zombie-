@@ -1,12 +1,14 @@
 {
   "name": "zyphor-zombie",
   "version": "1.0.0",
-  "description": "Bot de gestão, moderação, tickets e equipes para o Zyphor Zombie",
+  "description": "Bot de gestão, moderação, tickets, equipes, streamer, voz 24/7 e verificação por tempo limite",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1",
+    "libsodium-wrappers": "^0.7.13"
   }
 }
