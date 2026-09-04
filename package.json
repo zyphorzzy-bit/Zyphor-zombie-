@@ -1,13 +1,12 @@
 {
   "name": "zyphor-zombie",
-  "version": "1.0.0",
-  "description": "zyphor zombie - Discord Management Bot",
+  "version": "3.0.0",
+  "description": "Bot de gerenciamento unificado com Components V2 para ShardCloud",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.22.1",
-    "dotenv": "^17.2.2"
+    "discord.js": "^14.14.1"
   }
 }
